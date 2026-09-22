@@ -1,0 +1,29 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Local audio
+storage/
+backend/storage/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
